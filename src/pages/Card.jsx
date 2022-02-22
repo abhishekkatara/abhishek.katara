@@ -1,7 +1,6 @@
 import React from "react";
 import profile from "../images/profile.jpeg";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
-import { FaDribbble } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaRegEnvelope } from "react-icons/fa";
 
